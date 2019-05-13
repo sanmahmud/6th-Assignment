@@ -1,0 +1,63 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.body{}
+header{
+    background-color: #8c8a8a;
+    overflow: hidden;
+    display: block;
+    padding: 20px;
+}
+img{
+	max-width: 100%;
+	display: block;
+}
+.container{
+	width: 100%;
+}
+.logo{
+    float: left;
+    width: 50%;
+    margin-left: 100px;
+}
+nav{}
+nav ul{}
+nav ul li{
+    list-style: none;
+}
+nav ul li a{
+    text-decoration: none;
+    display: inline-block;
+    float: left;
+    padding: 10px;
+}
+.banner{
+	background-image: url(../images/banner.png);
+	overflow: hidden;
+	display: block;
+}
+.banner{
+    width: 100%;
+    text-align: center;
+}
+h1{
+    font-size: 50px;
+    margin-top: 180px;
+    text-transform: uppercase;
+}
+.banner p{
+    font-size: 15px;
+}
+.buttom{
+    border: 1px solid #181893;
+    text-align: center;
+    display: block;
+    padding: 10px;
+    color: white;
+    margin-bottom: 50px;
+    background: transparent;
+    font-size: 16px;
+    margin-top: 40px;
+}
+.bar{}
